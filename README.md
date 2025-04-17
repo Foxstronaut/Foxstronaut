@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Foxstronaut
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, I'm Elliott,
+===================
 
-<!---
-Foxstronaut/Foxstronaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Nice to Meet You...
+
+### [Instagram](https://instagram.com/el/r0cks/ "Personal and Private Instagram") | [LinkedIn](https://LinkedIn.com/in/elliott-weston-ball/ "LinkedIn Profile")
+
+#### Currently a busy student working to grow this hobby  
+   
+Other Hobbies:  
+📷: photography  
+🐶: volunteering at my local animal shelter  
+🛹: skateboarding  
+&  
+🧗: rock climbing (USAC Youth Series  
+Region 11, M17)  
+   
+📍 Seattle, WA, USA, 98103  
+🏫: Lincoln High School
+
+========================
+
+![Foxstronaut's Stats](https://github-readme-stats.vercel.app/api?username=Foxstronaut&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![Foxstronaut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxstronaut&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
