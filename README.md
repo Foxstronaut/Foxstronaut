@@ -13,7 +13,7 @@ Other Hobbies:
 🛹: skateboarding  
 &  
 🧗: rock climbing (USAC Youth Series  
-Region 11, M17)  
+Region 11, M19)  
    
 📍 Seattle, WA, USA, 98103  
 🏫: Lincoln High School
