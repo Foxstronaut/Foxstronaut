@@ -4,7 +4,7 @@
 
 #### Nice to Meet You...
 
-**FRC Robotics** – Mechanical – Chassis Lead  
+**FRC Robotics** – Mechanical – 2025-26 Chassis Lead  
 [chainlynx8248.com](https://chainlynx8248.com) | [GitHub](https://github.com/ChainLynxRobotics)
 
 
